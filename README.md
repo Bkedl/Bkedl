@@ -1,9 +1,14 @@
 # About Me
 <ol>
-  I'm employed as a Software Engineer
-  I’m currently working on a Money Saving App
-  I’m looking for help with Terraform + IaC
-  I’m currently learning to capitalise on MCP
+
+  <li>💼 I'm employed as a Software Engineer.</li>
+
+  <li>💰 I'm currently building a Money Saving App.</li>
+
+  <li>🌍 I'm looking to improve my Terraform & Infrastructure as Code (IaC) skills.</li>
+
+  <li>🤖 I'm currently learning how to make the most of Model Context Protocol (MCP).</li>
+
 </ol>
 
 # Tech Stack
